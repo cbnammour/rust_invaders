@@ -1,1 +1,2 @@
-You may add your own sound effects to your own local copy of this directory. Please see the `audio` module documentation for details.
+Run command Cargo build --release to compile
+Run command Cargo run to run the program
